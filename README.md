@@ -103,7 +103,7 @@ Release 0.7.12
 
 <h3>相关链接:</h3>
 
-按照[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-Hans)协议发布<br>项目地址: [GitHub](https://github.com/Aurora-VIP/mcpack_bb)<br>发布于: [MCBBS](https://www.mcbbs.net/thread-1303600-1-1.html)<br>
+按照[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-Hans)协议发布<br>项目地址: [GitHub](https://github.com/Spectrollay/mcpack_bb)<br>发布于: [MCBBS](https://www.mcbbs.net/thread-1303600-1-1.html)<br>
 
 <h3>下载:</h3>
 
