@@ -8,7 +8,7 @@
 
 中文译名修正+徽标及全景图切换+更多设置(更换UI功能开发中)
 
-另见: [中文译名修正项目](https://github.com/Aurora-VIP/mclang_cn)
+另见: [中文译名修正项目](https://github.com/Spectrollay/mclang_cn)
 
 <h3>安装方法:</h3>
 
