@@ -6,13 +6,58 @@
 
 <h3>功能:</h3>
 
-中文译名修正+徽标及全景图切换+更多设置(更换UI功能开发中)
+中文译名修正+徽标及全景图切换+更多设置
+
+<h4>中文译名修正</h4>
+
+依照Minecraft Wiki的译名标准化并加入了自己的理解对Minecraft现有的中文译名进行了重写以方便玩家能更好的理解(其中可能包括了一些Minecraft Wiki未确定的译名,会以暂译标注出)
 
 另见: [中文译名修正项目](https://github.com/Spectrollay/mclang_cn)
 
+![image](https://s1.328888.xyz/2022/09/24/VGppX.png)
+![image](https://s1.328888.xyz/2022/09/24/VCLqw.png)
+![image](https://s1.328888.xyz/2022/09/24/VClOi.png)
+![image](https://s1.328888.xyz/2022/09/24/VCmKg.png)
+![image](https://s1.328888.xyz/2022/09/24/VCjCs.png)
+![image](https://s1.328888.xyz/2022/09/24/VCOLn.png)
+![image](https://s1.328888.xyz/2022/09/24/VCux0.png)
+![image](https://s1.328888.xyz/2022/09/24/VC0Zp.png)
+![image](https://s1.328888.xyz/2022/06/11/Cklkq.jpg)
+
+<h4>徽标及全景图切换</h4>
+
+全景图目前共有21个,其中教育版有6个,经典(携带版)1个,基岩版10个,节日限定2个,开发版2个<br>图片均来自游戏目录及Minecraft Wiki
+
+![image](https://s1.328888.xyz/2022/09/24/Vk3zy.png)
+![image](https://s1.328888.xyz/2022/09/24/Vkh9N.png)
+![image](https://s1.328888.xyz/2022/09/24/VkfTk.png)
+![image](https://s1.328888.xyz/2022/09/24/VkbEC.png)
+![image](https://s1.328888.xyz/2022/09/24/Vkwwd.png)
+![image](https://s1.328888.xyz/2022/09/24/VkG8U.png)
+![image](https://s1.328888.xyz/2022/09/24/VkCRB.png)
+![image](https://s1.328888.xyz/2022/09/24/Vk1VP.png)
+![image](https://s1.328888.xyz/2022/09/24/Vk5p6.png)
+![image](https://s1.328888.xyz/2022/09/24/VkKFX.png)
+![image](https://s1.328888.xyz/2022/09/24/VkIEr.png)
+
+<h4>更多设置(开发者版本)</h4>
+
+启用方式详见资源包介绍<br>解锁了基岩版中大部分的隐藏内容(有一些会影响使用体验的没有解锁)<br>还加入了一些自定义的功能,比如调试水印的开关,对UI进行了细微的优化等等
+
+![image](https://s1.328888.xyz/2022/09/24/VC7Sg.png)
+![image](https://s1.328888.xyz/2022/09/24/VCzci.png)
+![image](https://s1.328888.xyz/2022/09/24/VCean.png)
+![image](https://s1.328888.xyz/2022/09/24/VCSlh.png)
+![image](https://s1.328888.xyz/2022/09/24/VCrJs.png)
+![image](https://s1.328888.xyz/2022/09/24/VCHW0.png)
+![image](https://s1.328888.xyz/2022/09/24/VCq3p.png)
+![image](https://s1.328888.xyz/2022/09/24/VCXPo.png)
+![image](https://s1.328888.xyz/2022/09/24/VCYYF.png)
+![image](https://s1.328888.xyz/2022/09/24/VCAuS.png)
+
 <h3>安装方法:</h3>
 
-下载完.mcpack文件后选择用Minecraft打开,在 设置-全局资源 中启用并置顶此资源包即可
+下载完mcpack文件后选择用Minecraft打开,在 设置-全局资源 中启用并置顶此资源包即可<br>如无法导入,请将文件后缀改为zip后解压,手动将其放置于资源包目录下<br>Android平台标准版位于/storage/emulated/0/Android/data/com.mojang.minecraftpe/files/games/com.mojang/resource_packs<br>Android平台预览版位于/storage/emulated/0/Android/data/com.mojang.minecraftbe/files/games/com.mojang/resource_packs<br>Windows平台标准版位于C:\Users\你的用户名\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang\resource_packs<br>Windows平台预览版位于C:\Users\你的用户名\AppData\Local\Packages\Microsoft.MinecraftWindowsBeta_8wekyb3d8bbwe\LocalState\games\com.mojang\resource_packs<br>
 
 <h3>使用方法:</h3>
 
@@ -20,19 +65,25 @@
 
 <h3>当前版本:</h3>
 
-Release 0.7.13
+Release 0.8.0
 
-<h3>目前已适配:</h3>
+<h3>当前支持:</h3>
 
-正式版 1.19.21
+正式版 1.19.30
 
 <h3>开发动态:</h3>
 
-切换UI功能正在开发中
+大体功能已完成开发
 
 <h3>更新日志:</h3>
+
+<details>
+<summary>点击此处展开</summary>
+<br>
+<b>Release 0.8.0</b>
+<br>适配正式版1.19.30<br>对部分内容进行了重构<br>中文译名修正包常规更新<br>优化了包大小<br>修复了一些遗留问题<br>
 <b>Release 0.7.13</b>
-<br>适配正式版1.19.21<br>中文译名修正包常规更新<br>修正了一下错误<br>
+<br>适配正式版1.19.21<br>中文译名修正包常规更新<br>修正了一些错误<br>
 <b>Release 0.7.12</b>
 <br>适配正式版1.19.10<br>更多设置功能实装<br>加入了Beta和Preview的独有提示<br>中文译名修正包常规更新<br>
 <b>Release 0.7.4</b>
@@ -102,11 +153,12 @@ Release 0.7.13
 <br>更改了图标及简介<br>移除了终末之诗英汉双语对照<br>
 <b>Beta 0.0.1</b>
 <br>加入了中文语言包和终末之诗英汉双语对照<br>
+</details>
 
-<h3>相关链接:</h3>
+<h3>相关:</h3>
 
-按照[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-Hans)协议发布<br>项目地址: [GitHub](https://github.com/Spectrollay/mcpack_bb)<br>发布于: [MCBBS](https://www.mcbbs.net/thread-1303600-1-1.html)<br>
+按照[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-Hans)协议发布<br>项目地址: [GitHub](https://github.com/Spectrollay/mcpack_bb)<br>
 
 <h3>下载:</h3>
 
-见下方Releases
+见Releases模块<br>备用: [网盘](https://pan.huang1111.cn/s/3MwnTm?path=/)<br>
