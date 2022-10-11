@@ -65,7 +65,11 @@
 
 <h3>当前版本:</h3>
 
-Release 0.8.1
+Release 0.8.1.1
+
+<h3>更新日期:</h3>
+
+2022.10.11
 
 <h3>当前支持:</h3>
 
@@ -80,6 +84,8 @@ Release 0.8.1
 <details>
 <summary>点击此处展开</summary>
 <br>
+<b>Release 0.8.1.1</b>
+<br>修正了一些错误<br>
 <b>Release 0.8.1</b>
 <br>适配正式版1.19.31<br>中文译名标准化 凋零玫瑰->凋灵玫瑰<br>
 <b>Release 0.8.0</b>
