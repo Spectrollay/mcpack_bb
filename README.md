@@ -65,15 +65,15 @@
 
 <h3>当前版本:</h3>
 
-Release 0.8.2.2
+Release 0.8.3
 
 <h3>更新日期:</h3>
 
-2022.10.30
+2022.11.6
 
 <h3>当前支持:</h3>
 
-正式版 1.19.40
+正式版 1.19.41
 
 <h3>开发动态:</h3>
 
@@ -84,6 +84,10 @@ Release 0.8.2.2
 <details>
 <summary>点击此处展开</summary>
 <br>
+<b>Release 0.8.3</b>
+<br>适配正式版1.19.41<br>
+<b>Release 0.8.2.3</b>
+<br>Json UI的一些调整<br>更新了加载提示<br>
 <b>Release 0.8.2.2</b>
 <br>Json UI的一些调整<br>修正了一些错误<br>
 <b>Release 0.8.2.1</b>
