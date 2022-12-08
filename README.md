@@ -57,7 +57,7 @@
 
 <h3>安装方法:</h3>
 
-下载完mcpack文件后选择用Minecraft打开,在 设置-全局资源 中启用并置顶此资源包即可<br>如无法导入,请将文件后缀改为zip后解压,手动将其放置于资源包目录下<br>Android平台标准版位于/storage/emulated/0/Android/data/com.mojang.minecraftpe/files/games/com.mojang/resource_packs<br>Android平台预览版位于/storage/emulated/0/Android/data/com.mojang.minecraftbe/files/games/com.mojang/resource_packs<br>Windows平台标准版位于C:\Users\你的用户名\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalState\games\com.mojang\resource_packs<br>Windows平台预览版位于C:\Users\你的用户名\AppData\Local\Packages\Microsoft.MinecraftWindowsBeta_8wekyb3d8bbwe\LocalState\games\com.mojang\resource_packs<br>
+下载完mcpack文件后选择用Minecraft打开,在 设置-全局资源 中启用并置顶此资源包即可<br>如无法导入,请将文件后缀改为zip后解压,手动将其放置于资源包目录下<br>
 
 <h3>使用方法:</h3>
 
@@ -65,15 +65,15 @@
 
 <h3>当前版本:</h3>
 
-Release 0.8.3
+Release 0.8.4
 
 <h3>更新日期:</h3>
 
-2022.11.6
+2022.12.8
 
 <h3>当前支持:</h3>
 
-正式版 1.19.41
+正式版 1.19.50
 
 <h3>开发动态:</h3>
 
@@ -84,6 +84,8 @@ Release 0.8.3
 <details>
 <summary>点击此处展开</summary>
 <br>
+<b>Release 0.8.4</b>
+<br>适配正式版1.19.50<br>
 <b>Release 0.8.3</b>
 <br>适配正式版1.19.41<br>
 <b>Release 0.8.2.3</b>
