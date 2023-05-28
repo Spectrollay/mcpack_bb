@@ -22,50 +22,17 @@
 
 <h4>中文译名修正</h4>
 
-依照Minecraft Wiki的译名标准化并加入了自己的理解对Minecraft现有的中文译名进行了重写以方便玩家能更好的理解(其中可能包括了一些Minecraft Wiki未确定的译名,会以暂译标注出)
+现在中文译名修正独立为了一个项目,不再内置于本资源包中
 
 另见: [中文译名修正项目](https://github.com/Spectrollay/mclang_cn)
-
-![image](https://s1.328888.xyz/2022/09/24/VGppX.png)
-![image](https://s1.328888.xyz/2022/09/24/VCLqw.png)
-![image](https://s1.328888.xyz/2022/09/24/VClOi.png)
-![image](https://s1.328888.xyz/2022/09/24/VCmKg.png)
-![image](https://s1.328888.xyz/2022/09/24/VCjCs.png)
-![image](https://s1.328888.xyz/2022/09/24/VCOLn.png)
-![image](https://s1.328888.xyz/2022/09/24/VCux0.png)
-![image](https://s1.328888.xyz/2022/09/24/VC0Zp.png)
-![image](https://s1.328888.xyz/2022/06/11/Cklkq.jpg)
 
 <h4>徽标及全景图切换</h4>
 
 全景图目前共有24个,其中教育版有7个,经典(携带版)1个,基岩版11个,节日限定3个,开发版2个<br>图片均来自游戏目录及Minecraft Wiki
 
-![image](https://s1.328888.xyz/2022/09/24/Vk3zy.png)
-![image](https://s1.328888.xyz/2022/09/24/Vkh9N.png)
-![image](https://s1.328888.xyz/2022/09/24/VkfTk.png)
-![image](https://s1.328888.xyz/2022/09/24/VkbEC.png)
-![image](https://s1.328888.xyz/2022/09/24/Vkwwd.png)
-![image](https://s1.328888.xyz/2022/09/24/VkG8U.png)
-![image](https://s1.328888.xyz/2022/09/24/VkCRB.png)
-![image](https://s1.328888.xyz/2022/09/24/Vk1VP.png)
-![image](https://s1.328888.xyz/2022/09/24/Vk5p6.png)
-![image](https://s1.328888.xyz/2022/09/24/VkKFX.png)
-![image](https://s1.328888.xyz/2022/09/24/VkIEr.png)
-
 <h4>更多设置(开发者版本)</h4>
 
 启用方式详见资源包介绍<br>解锁了基岩版中大部分的隐藏内容(有一些会影响使用体验的没有解锁)<br>还加入了一些自定义的功能,比如调试水印的开关,对UI进行了细微的优化等等
-
-![image](https://s1.328888.xyz/2022/09/24/VC7Sg.png)
-![image](https://s1.328888.xyz/2022/09/24/VCzci.png)
-![image](https://s1.328888.xyz/2022/09/24/VCean.png)
-![image](https://s1.328888.xyz/2022/09/24/VCSlh.png)
-![image](https://s1.328888.xyz/2022/09/24/VCrJs.png)
-![image](https://s1.328888.xyz/2022/09/24/VCHW0.png)
-![image](https://s1.328888.xyz/2022/09/24/VCq3p.png)
-![image](https://s1.328888.xyz/2022/09/24/VCXPo.png)
-![image](https://s1.328888.xyz/2022/09/24/VCYYF.png)
-![image](https://s1.328888.xyz/2022/09/24/VCAuS.png)
 
 <h3>安装方法:</h3>
 
@@ -77,11 +44,11 @@
 
 <h3>当前版本:</h3>
 
-Release 0.8.6
+Release 0.8.8
 
 <h3>更新日期:</h3>
 
-2023.5.18
+2023.5.28
 
 <h3>当前支持:</h3>
 
@@ -96,6 +63,8 @@ Release 0.8.6
 <details>
 <summary>点击此处展开</summary>
 <br>
+<b>Release 0.8.8</b>
+<br>修复了开发者版本选项的各种问题并支持了1.19.83<br>移除了内置的中文译名修正<br>
 <b>Release 0.8.6</b>
 <br>适配正式版1.19.83<br>
 <b>Release 0.8.4</b>
