@@ -1,8 +1,10 @@
 <div align="center">
 
-<h1>基岩版工具包</h1>
+<h1>更好的基岩版</h1>
 
-<b>我们正在尽力开发即将到来的1.0版本!</b>
+<b>我们正在开发1.0版本!</b>
+
+<b>新地址: <a href="https://github.com/Spectrollay/mcpack_bk">基岩版工具包</a></b>
 <details>
 <summary>了解1.0版本的新内容!</summary>
 
